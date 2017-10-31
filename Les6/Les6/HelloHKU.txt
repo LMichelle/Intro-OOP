@@ -1,0 +1,2 @@
+Hello HKU, I thought it would be nice to make a document that only differs a little bit from Hello World cause it's still programming but I don't want to be
+completely stupid either.
